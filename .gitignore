@@ -9,3 +9,12 @@
 /.socket-repl-port
 /cljs-test-runner-out
 target
+
+
+#Visual Studio artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.nupkg
